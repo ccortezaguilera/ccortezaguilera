@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fccortezaguilera%2Fccortezaguilera)
+🌱 I’m currently learning GoLang
 <!--
 **ccortezaguilera/ccortezaguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
